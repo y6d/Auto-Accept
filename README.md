@@ -1,6 +1,6 @@
 # Auto-Accept
 Simple Tool To Accept Instagram Users<br>
-![alt text](![image](https://user-images.githubusercontent.com/88463490/148970481-b6cf9338-f6dc-4919-90f1-b1be1432840a.png))
+(https://instagram.fbeg6-1.fna.fbcdn.net/v/t51.2885-15/e15/s640x640/271572328_446305137141490_767737017850942717_n.jpg?_nc_ht=instagram.fbeg6-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Iojcsbu1emMAX_ZruVI&edm=ABJHkxYAAAAA&ccb=7-4&ig_cache_key=Mjc0ODg5OTk5NDY2NzAwMzcwMQ%3D%3D.2-ccb7-4&oh=00_AT_SG5MIuYptwiEJW3sjyEGAevsxxRjRJIJdXN-UoBdOfw&oe=61E5829E&_nc_sid=fa978c)
 # Credit
 
 Instagram: https://www.instagram.com/entrysquad/ <br>
