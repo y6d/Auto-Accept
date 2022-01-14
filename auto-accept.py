@@ -6,7 +6,7 @@ try:
     import json
     import os
     from os import system
-    system("title " + "By Lynch - Instagram Auto Accept v1.00")
+    system("title " + "Programmed By Lynch - Instagram Auto Accept")
     import colorama
     from colorama import Fore
     colorama.init(autoreset=True)
@@ -16,22 +16,17 @@ except Exception as m:
     input()
     exit()
 
-
-
-
 logo = """
-
   _                     _     
  | |   _   _ _ __   ___| |__  
  | |  | | | | '_ \ / __| '_ \ 
  | |__| |_| | | | | (__| | | |
  |_____\__, |_| |_|\___|_| |_|
        |___/                                    
-
 """
 
 print(Fore.CYAN+logo)
-title = ("By Lynch, Telegram: @overexcited")
+title = ("Made w Love By Lynch, [i]: @l7up")
 print(Fore.RED+title)                              
 username = str(input(f"[{Fore.GREEN}?{Fore.RESET}] Username: "))
 password = str(input(f"[{Fore.GREEN}?{Fore.RESET}] Password: "))
